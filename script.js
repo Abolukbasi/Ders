@@ -3,3 +3,4 @@ console.log("Ekleme yaptım")
 x=Number(prompt("Denme"));
 alert("deneme")
 alert(x)
+x=150
