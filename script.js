@@ -1,6 +1,6 @@
 // cmd de code boşluk . yazarsanızz vsc a girersiniz.
 console.log("Ekleme yaptım")
-x=Number(prompt("Denme"));
+// x=Number(prompt("Denme"));
 alert("deneme")
 alert(x)
 x=150
